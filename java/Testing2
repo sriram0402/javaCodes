@@ -1,0 +1,7 @@
+class Testing2{
+    public static void main String args(){
+        Testing obj=new Testing()
+        
+        system.out.println(obj.myName);
+    }
+}
